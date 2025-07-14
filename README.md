@@ -1,2 +1,2 @@
 # DL-Digit-Prediction
-Developed a deep learning model to accurately predict handwritten digits, leveraging convolutional neural networks (CNNs) for high-accuracy image classification.
+Developed a deep learning model to accurately predict handwritten digits, leveraging Artificial neural networks (ANNs) for high-accuracy image classification.
